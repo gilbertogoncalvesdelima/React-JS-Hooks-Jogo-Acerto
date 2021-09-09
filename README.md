@@ -16,5 +16,4 @@ Copiar e colar a folha de estilo <link>em seu <head>antes de todas as outras fol
 
 # Link para visualização do projeto
 https://jogo-acerto-react-js.netlify.app/
-# jogo_acerto_react_js
-# jogo_acerto_react_js
+
